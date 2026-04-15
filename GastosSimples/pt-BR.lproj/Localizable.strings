@@ -1,0 +1,79 @@
+// MARK: - Abas
+"Dashboard" = "Painel";
+"Expenses" = "Gastos";
+
+// MARK: - Painel
+"No expenses yet" = "Nenhum gasto ainda";
+"Tap + to add your first expense" = "Toque em + para adicionar seu primeiro gasto";
+"Total Spent" = "Total Gasto";
+
+// MARK: - Lista de Gastos
+"No Expenses" = "Nenhum Gasto";
+"No Results" = "Nenhum Resultado";
+"Try a different search term" = "Tente outro termo de busca";
+"Search merchant" = "Buscar estabelecimento";
+"All Categories" = "Todas as Categorias";
+"Filter" = "Filtrar";
+"Delete" = "Excluir";
+"Delete this expense?" = "Excluir este gasto?";
+"Cancel" = "Cancelar";
+"\"%@\" will be permanently removed." = "\"%@\" ser\u00e1 removido permanentemente.";
+
+// MARK: - Detalhe de Categoria
+"No expenses this month" = "Nenhum gasto este m\u00eas";
+"Transactions (%lld)" = "Transa\u00e7\u00f5es (%lld)";
+
+// MARK: - Adicionar Gasto
+"Add Expense" = "Adicionar Gasto";
+"Select Area" = "Selecionar \u00c1rea";
+"Reading Screenshot" = "Lendo Captura";
+"Review Details" = "Revisar Detalhes";
+"Select Category" = "Selecionar Categoria";
+"Payment Type" = "Tipo de Pagamento";
+"Could not read screenshot" = "N\u00e3o foi poss\u00edvel ler a captura";
+"OK" = "OK";
+
+// MARK: - Escolher Foto
+"Pick a Screenshot" = "Escolher Captura de Tela";
+"Select a payment confirmation, receipt, or bank notification from your gallery." = "Selecione uma confirma\u00e7\u00e3o de pagamento, recibo ou notifica\u00e7\u00e3o banc\u00e1ria da sua galeria.";
+"Choose Screenshot" = "Escolher Captura";
+
+// MARK: - Processando
+"Scanning screenshot\u{2026}" = "Lendo captura de tela\u{2026}";
+
+// MARK: - Revisão
+"Expense Details" = "Detalhes do Gasto";
+"Merchant" = "Estabelecimento";
+"Name" = "Nome";
+"Amount" = "Valor";
+"0.00" = "0,00";
+"Date" = "Data";
+"Continue" = "Continuar";
+
+// MARK: - Categoria
+"Skip Category" = "Pular Categoria";
+
+// MARK: - Parcelamento
+"How did you pay?" = "Como voc\u00ea pagou?";
+"Tell us if this was split into installments so we can track each one." = "Informe se foi parcelado para acompanharmos cada parcela.";
+"Payment type" = "Tipo de pagamento";
+"Paid in full" = "\u00c0 vista";
+"Installments" = "Parcelado";
+"Installment Details" = "Detalhes do Parcelamento";
+"Total installments: %lldx" = "Total de parcelas: %lldx";
+"This is installment: %lld of %lld" = "Esta \u00e9 a parcela: %lld de %lld";
+"Save Expense" = "Salvar Gasto";
+
+// MARK: - Recorte
+"Use Full Image" = "Usar Imagem Completa";
+"Scan Area" = "Escanear \u00c1rea";
+
+// MARK: - Nomes de Categoria
+"Food" = "Alimenta\u00e7\u00e3o";
+"Transport" = "Transporte";
+"Health" = "Sa\u00fade";
+"Shopping" = "Compras";
+"Entertainment" = "Lazer";
+"Housing" = "Moradia";
+"Education" = "Educa\u00e7\u00e3o";
+"Other" = "Outros";

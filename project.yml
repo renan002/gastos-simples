@@ -1,0 +1,33 @@
+name: GastosSimples
+options:
+  bundleIdPrefix: com.gastossimples
+  deploymentTarget:
+    iOS: "26.0"
+  createIntermediateGroups: true
+  xcodeVersion: "16.0"
+
+targets:
+  GastosSimples:
+    type: application
+    platform: iOS
+    deploymentTarget: "26.0"
+    sources:
+      - path: GastosSimples
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.gastossimples.app
+        SWIFT_VERSION: "6.0"
+        SWIFT_STRICT_CONCURRENCY: targeted
+        TARGETED_DEVICE_FAMILY: "1"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+    info:
+      path: GastosSimples/Info.plist
+      properties:
+        NSPhotoLibraryUsageDescription: "GastosSimples needs access to your photos to scan payment screenshots."
+        UILaunchScreen: {}
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: false
+          UISceneConfigurations: {}
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait

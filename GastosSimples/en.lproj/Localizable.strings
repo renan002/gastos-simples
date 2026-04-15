@@ -1,0 +1,79 @@
+// MARK: - Tabs
+"Dashboard" = "Dashboard";
+"Expenses" = "Expenses";
+
+// MARK: - Dashboard
+"No expenses yet" = "No expenses yet";
+"Tap + to add your first expense" = "Tap + to add your first expense";
+"Total Spent" = "Total Spent";
+
+// MARK: - Expense List
+"No Expenses" = "No Expenses";
+"No Results" = "No Results";
+"Try a different search term" = "Try a different search term";
+"Search merchant" = "Search merchant";
+"All Categories" = "All Categories";
+"Filter" = "Filter";
+"Delete" = "Delete";
+"Delete this expense?" = "Delete this expense?";
+"Cancel" = "Cancel";
+"\"%@\" will be permanently removed." = "\"%@\" will be permanently removed.";
+
+// MARK: - Category Detail
+"No expenses this month" = "No expenses this month";
+"Transactions (%lld)" = "Transactions (%lld)";
+
+// MARK: - Add Expense Steps
+"Add Expense" = "Add Expense";
+"Select Area" = "Select Area";
+"Reading Screenshot" = "Reading Screenshot";
+"Review Details" = "Review Details";
+"Select Category" = "Select Category";
+"Payment Type" = "Payment Type";
+"Could not read screenshot" = "Could not read screenshot";
+"OK" = "OK";
+
+// MARK: - Photo Pick
+"Pick a Screenshot" = "Pick a Screenshot";
+"Select a payment confirmation, receipt, or bank notification from your gallery." = "Select a payment confirmation, receipt, or bank notification from your gallery.";
+"Choose Screenshot" = "Choose Screenshot";
+
+// MARK: - Processing
+"Scanning screenshot\u{2026}" = "Scanning screenshot\u{2026}";
+
+// MARK: - Review
+"Expense Details" = "Expense Details";
+"Merchant" = "Merchant";
+"Name" = "Name";
+"Amount" = "Amount";
+"0.00" = "0.00";
+"Date" = "Date";
+"Continue" = "Continue";
+
+// MARK: - Category Picker
+"Skip Category" = "Skip Category";
+
+// MARK: - Installments
+"How did you pay?" = "How did you pay?";
+"Tell us if this was split into installments so we can track each one." = "Tell us if this was split into installments so we can track each one.";
+"Payment type" = "Payment type";
+"Paid in full" = "Paid in full";
+"Installments" = "Installments";
+"Installment Details" = "Installment Details";
+"Total installments: %lldx" = "Total installments: %lldx";
+"This is installment: %lld of %lld" = "This is installment: %lld of %lld";
+"Save Expense" = "Save Expense";
+
+// MARK: - Crop
+"Use Full Image" = "Use Full Image";
+"Scan Area" = "Scan Area";
+
+// MARK: - Category Names
+"Food" = "Food";
+"Transport" = "Transport";
+"Health" = "Health";
+"Shopping" = "Shopping";
+"Entertainment" = "Entertainment";
+"Housing" = "Housing";
+"Education" = "Education";
+"Other" = "Other";
